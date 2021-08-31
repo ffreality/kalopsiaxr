@@ -1,0 +1,23 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478 442" width="478" height="442">
+	<title>left-ball-svg</title>
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="159.022" cy="190.877" r="135.671">
+			<stop offset="0" stop-color="#29abe2"  />
+			<stop offset="0.712" stop-color="#1b1464"  />
+			<stop offset="0.972" stop-color="#d4145a"  />
+		</radialGradient>
+		<radialGradient id="grd2" gradientUnits="userSpaceOnUse"  cx="237.997" cy="223.197" r="325.873">
+			<stop offset="0" stop-color="#ed1e79"  />
+			<stop offset="1" stop-color="#000000"  />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { opacity: 0.278;mix-blend-mode: screen;fill: url(#grd2) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M194.93 315.17C154.07 315.17 121.04 282.14 121.04 241.27C121.04 200.41 154.07 167.38 194.93 167.38C235.8 167.38 268.83 200.41 268.83 241.27C268.83 282.14 235.8 315.17 194.93 315.17Z" />
+		<path id="Layer" class="shp1" d="M351.96 369.64C239.13 457.44 96.98 462.96 33.96 381.98C-29.06 301 11.2 164.56 124.04 76.75C236.87 -11.05 379.01 -16.57 442.03 64.42C505.05 145.4 464.79 281.83 351.96 369.64Z" />
+	</g>
+</svg>
